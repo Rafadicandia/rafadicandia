@@ -43,7 +43,7 @@ I thrive in **Agile/Scrum** environments and enjoy contributing to Code Reviews 
 
 * 📍 **Location:** Barcelona (Available for Remote or Hybrid roles)
 * 🌐 **Portfolio:** [www.rafaeldicandia.com](http://www.rafaeldicandia.com)
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* ✉️ **Email:** [Your Email Here]
+* 💼 **LinkedIn:** [linkedin.com/in/rafaeldicandiacutinella/]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rafaeldicandiacutinella/))
+* ✉️ **Email:** [rdicandia@gmail.com]
 
 **#JavaDeveloper #SpringBoot #Backend #CleanCode #OpenToWork**
