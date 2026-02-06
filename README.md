@@ -30,11 +30,7 @@ After a decade as an audiovisual producer and photographer, I have transformed m
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafadicandia&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafadicandia&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafadicandia&theme=radical" alt="GitHub Streak" />
 
 ---
 
