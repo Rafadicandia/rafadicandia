@@ -31,8 +31,9 @@ After a decade as an audiovisual producer and photographer, I have transformed m
 
 ### 📈 GitHub Stats
 <p align="left">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafadicandia)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafadicandia&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafadicandia&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafadicandia&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
