@@ -30,7 +30,7 @@ After a decade as an audiovisual producer and photographer, I have transformed m
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📈 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafadicandia&theme=radical" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafadicandia&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
